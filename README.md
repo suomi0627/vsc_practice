@@ -1,4 +1,4 @@
-# はじめての visual studio code
+# はじめての Visual Studio Code
 
 ## 作業履歴
 
@@ -8,4 +8,5 @@
 4. README.md を add した(ステージング)した
 5. README.md をコミットした
 6. 新しくpractice01 ブランチを作成した
-7
+7. リモートブランチの設定を追加した
+8. リモートリポジトリに master ブランチを push した
